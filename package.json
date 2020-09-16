@@ -1,0 +1,16 @@
+{
+  "name": "@rustjs/reqwest",
+  "version": "0.0.1+crate-0.10.8",
+  "description": "",
+  "main": "lib/index.js",
+  "dependencies": {
+    "neon-cli": "^0.4.0"
+  },
+  "scripts": {
+    "build": "neon build",
+    "install": "neon build --release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0 OR MIT"
+}
